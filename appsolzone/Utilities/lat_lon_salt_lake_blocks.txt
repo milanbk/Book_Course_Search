@@ -1,0 +1,80 @@
+22.59173758,88.39743948 - AA Block           ----
+22.59328284,88.39962816 - AB Block
+22.58000808,88.40567670 - FB Block
+22.58861675,88.40821981 - DC Block
+
+22.56067949,88.41202817 - LB Block           ----
+
+22.59493991,88.41317830 - CE Block           ----
+
+22.57224123,88.41486058 - IB Block
+
+22.59354736,88.41790929 - CF Block
+22.57407321,88.42410912 - GM Block
+22.58001106,88.42415535 - EE Block
+22.58942664,88.42451826 - CJ Block
+
+
+22.58796393,88.42647098 - Appsolzone
+
+
+22.58301345,88.42893540 - CL Block
+22.58936239,88.43119346 - AK Block
+22.58478729,88.43157035 - BL Block
+22.58625338,88.43435985 - AL Block
+
+22.57747109,88.43166351 - DN Block
+22.57422560,88.43763077 - DP Block
+22.58177581,88.44015342 - AP Block           ----
+
+['22.611302186206785,88.4410676942098','22.564625673793216,88.4118742657902']
+['22.611302186206785,88.4118742657902','22.564625673793216,88.4410676942098']
+
+http://search-locations-l2lfxzmlf4zk7sxrxvezki3nye.us-west-2.cloudsearch.amazonaws.com/2013-01-01/search?q=%27block%27&expr.distance=haversin(22.58796393,88.42647098,location.latitude,location.longitude)&expr.radius=3&expr.offset=(distance-3)&sort=distance%20asc&return=offset,radius,distance,_all_fields&format=xml&size=25
+
+
+http://search-locations-l2lfxzmlf4zk7sxrxvezki3nye.us-west-2.cloudsearch.amazonaws.com/2013-01-01/search?q=%27block%27&fq=location:['22.607018756005605,88.4058287512518','22.568909103994397,88.4471132087482']&expr.distance=haversin(22.58796393,88.42647098,location.latitude,location.longitude)&expr.radius=3&expr.offset=(distance-3)&sort=distance%20asc&return=offset,radius,distance,_all_fields&format=xml&size=25
+
+
+http://search-locations-l2lfxzmlf4zk7sxrxvezki3nye.us-west-2.cloudsearch.amazonaws.com/2013-01-01/search?q=%27block%27&fq=location:['22.607018756005605,88.4058287512518','22.568909103994397,88.4471132087482']&format=xml&size=25
+
+
+
+
+22.59173758,#88.39743948# - AA Block           ----
+
+							#22.59493991#,88.41317830 - CE Block           ----
+
+
+
+												22.58177581,#88.44015342# - AP Block           ----
+
+
+			#22.56067949#,88.41202817 - LB Block           ----
+	
+
+
+
+[x1-lat,y2]tl					[x2,y2]
+
+
+		[x1,y1]
+
+
+
+[x1-lat,y1-lon]					[x2,y1-lon]rb
+
+
+['22.611302186206785,88.4410676942098','22.564625673793216,88.4118742657902']
+
+
+
+
+
+
+
+
+
+
+
+

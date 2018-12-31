@@ -1,0 +1,24 @@
+[
+   {
+      "fields" : {
+	     "location": "22.59354736,88.41790929",
+         "author" : "Author1",
+         "cover" : "Hardcover",
+         "year" : "2018",
+         "title" : "AngularJS"
+      },
+      "id" : "tt1226401",
+      "type" : "add"
+   },
+   {
+      "fields" : {
+	     "location": "22.58942664,88.42451826",
+         "author" : "Author2",
+         "cover" : "Paperback",
+         "year" : "2017",
+         "title" : "NodeJS"
+      },
+      "id" : "tt1226402",
+      "type" : "add"
+   }
+]

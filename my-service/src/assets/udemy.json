@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Angular 6 (formerly Angular 2) - The Complete Guide",
+        "level": "All Levels",
+        "duration": "28 hours",
+        "price": "12160",
+        "ratings": "4.6"
+      },
+      {
+        "title": "Learn and Understand AngularJS - All Levels",
+        "level": "All Levels",
+        "duration": "7 hours",
+        "price": "11200",
+        "ratings": "4.5"
+      },
+      {
+        "title": "The Complete Angular Course: Begineer to Advanced",
+        "level": "All Levels",
+        "duration": "29.5 hours",
+        "price": "12800",
+        "ratings": "4.5"
+      }
+]

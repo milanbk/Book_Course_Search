@@ -1,0 +1,14 @@
+AWS Ac Id : 278501563472 
+ ac name : appsolzone
+Mail id : appsolzone.it@gmail.com
+pwd : AszBlogIT@2018
+
+
+Created new IAM user:- appsz
+Credentials:-
+
+Access key ID
+AKIAJMMFSVVRZC2KGDXA
+
+Secret access key
+C7DJlc+36x8YKRK98bJ72AKP6ZO2tQ/EvSBTQ6aT

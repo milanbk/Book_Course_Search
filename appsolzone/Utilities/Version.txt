@@ -1,0 +1,8 @@
+C:\Users\Dell>npm -v
+6.4.1
+
+C:\Users\Dell>node -v
+v10.11.0
+
+C:\Users\Dell>ng -v
+Angular CLI: 6.2.4

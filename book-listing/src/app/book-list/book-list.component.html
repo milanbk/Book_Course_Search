@@ -1,0 +1,38 @@
+<h2>Please enter book details of owner: </h2>
+
+<ul>
+  <form name="addform" #addbook="ngForm" (ngSubmit)="onClickAdd(addbook.value)">
+    <input type="text" name="title" placeholder="title" ngModel>
+    <br />
+    <input type="text" name="cover" placeholder="hardcover/paperback" ngModel>
+    <br />
+    <input type="text" name="author" placeholder="author" ngModel>
+    <br />
+    <input type="text" name="year" placeholder="year of publishing" ngModel>
+    <br />
+    <br />
+    <input type="text" name="addressline1" placeholder="address-line1" ngModel>
+    <br />
+    <input type="text" name="addressline2" placeholder="address-line2" ngModel>
+    <br />
+    <input type="text" name="addresscity" placeholder="address-city" ngModel>
+    <br />
+    <input type="text" name="addresszip" placeholder="address-zip" ngModel>
+    <br />
+    <input type="submit" value="add">
+  </form>
+  <br />
+  <br />
+  
+  <form name="removeform" #removebook="ngForm" (ngSubmit)="onClickRemove(removebook.value)">
+    <input type="text" name="title" placeholder="title" ngModel>
+    <br />
+    <input type="text" name="cover" placeholder="hardcover/paperback" ngModel>
+    <br />
+    <input type="text" name="author" placeholder="author" ngModel>
+    <br />
+    <input type="text" name="year" placeholder="year of publishing" ngModel>
+    <br />
+    <input type="submit" value="remove">
+  </form>
+</ul>

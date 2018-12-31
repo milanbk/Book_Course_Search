@@ -1,0 +1,24 @@
+[
+   {
+      "fields" : {
+	     "location": "50.05830,-84.40570",
+         "title" : "Single Page Web Applications with AngularJS",
+         "ratings" : "4.9",
+         "level" : "Intermediate",
+         "language" : "English"
+      },
+      "id" : "tt2226417",
+      "type" : "add"
+   },
+   {
+      "fields" : {
+	     "location": "51.05830,-85.40570",
+         "title" : "Front-End Javascript Frameworks:Angular",
+         "ratings" : "Intermediate",
+         "level" : "Intermediate",
+         "language" : "English"
+      },
+      "id" : "tt0816711",
+      "type" : "add"
+   }
+]

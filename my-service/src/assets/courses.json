@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Basic Programming in Angular 1",
+        "level": "Beginner",
+        "domain": "Engineering",
+        "language": "Bengali"
+      },
+      {
+        "title": "Basic Programming in Angular 2",
+        "level": "Beginner",
+        "domain": "Engineering",
+        "language": "Hindi"
+      },
+      {
+        "title": "Advanced Programming in Angular 4",
+        "level": "Advanced",
+        "domain": "Engineering",
+        "language": "English"
+      },
+      {
+        "title": "Expert Programming in Angular 6",
+        "level": "Expert",
+        "domain": "Engineering",
+        "language": "English"
+      }
+]

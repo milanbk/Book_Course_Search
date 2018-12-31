@@ -1,0 +1,7 @@
+
+AIzaSyBZs6hCYNY3GdZ07rUzL8MMp3hJcEuHInA
+
+https://developers.google.com/maps/documentation/javascript/geocoding
+
+https://maps.googleapis.com/maps/api/geocode/json?address=Appsolzone,Kolkata+64&key=AIzaSyBZs6hCYNY3GdZ07rUzL8MMp3hJcEuHInA
+

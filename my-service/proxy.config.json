@@ -1,0 +1,11 @@
+{
+    "/api": {
+        "target": "https://cloudsearch.us-west-2.amazonaws.com",
+        "secure": false,
+        "changeOrigin": true,
+        "logLevel": "debug",
+        "pathRewrite": {
+            "^/api": "/"
+        }
+    }
+}

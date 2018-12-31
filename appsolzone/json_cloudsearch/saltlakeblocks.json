@@ -1,0 +1,164 @@
+[
+   {
+      "fields" : {
+	     "location": "22.59354736,88.41790929",
+         "category" : "block",
+         "title" : "CF"
+      },
+      "id" : "tt2226401",
+      "type" : "add"
+   },
+   {
+      "fields" : {
+	     "location": "22.58942664,88.42451826",
+         "category" : "block",
+         "title" : "CJ"
+      },
+      "id" : "tt2226402",
+      "type" : "add"
+   },
+   {
+      "fields" : {
+	     "location": "22.56067949,88.41202817",
+         "category" : "block",
+         "title" : "LB"
+      },
+      "id" : "tt2226403",
+      "type" : "add"
+   },
+   {
+      "fields" : {
+	     "location": "22.57224123,88.41486058",
+         "category" : "block",
+         "title" : "IB"
+      },
+      "id" : "tt2226404",
+      "type" : "add"
+   },
+   {
+      "fields" : {
+	     "location": "22.58000808,88.40567670",
+         "category" : "block",
+         "title" : "FB"
+      },
+      "id" : "tt2226405",
+      "type" : "add"
+   },
+   {
+      "fields" : {
+	     "location": "22.59328284,88.39962816",
+         "category" : "block",
+         "title" : "AB"
+      },
+      "id" : "tt2226406",
+      "type" : "add"
+   },
+   {
+      "fields" : {
+	     "location": "22.59173758,88.39743948",
+         "category" : "block",
+         "title" : "AA"
+      },
+      "id" : "tt2226407",
+      "type" : "add"
+   },
+   {
+      "fields" : {
+	     "location": "22.58861675,88.40821981",
+         "category" : "block",
+         "title" : "DC"
+      },
+      "id" : "tt2226408",
+      "type" : "add"
+   },
+   {
+      "fields" : {
+	     "location": "22.59493991,88.41317830",
+         "category" : "block",
+         "title" : "CE"
+      },
+      "id" : "tt2226409",
+      "type" : "add"
+   },
+   {
+      "fields" : {
+	     "location": "22.58001106,88.42415535",
+         "category" : "block",
+         "title" : "EE"
+      },
+      "id" : "tt2226410",
+      "type" : "add"
+   },
+   {
+      "fields" : {
+	     "location": "22.58936239,88.43119346",
+         "category" : "block",
+         "title" : "AK"
+      },
+      "id" : "tt2226411",
+      "type" : "add"
+   },
+   {
+      "fields" : {
+	     "location": "22.57422560,88.43763077",
+         "category" : "block",
+         "title" : "DP"
+      },
+      "id" : "tt2226412",
+      "type" : "add"
+   },
+   {
+      "fields" : {
+	     "location": "22.57407321,88.42410912",
+         "category" : "block",
+         "title" : "GM"
+      },
+      "id" : "tt2226413",
+      "type" : "add"
+   },
+   {
+      "fields" : {
+	     "location": "22.58478729,88.43157035",
+         "category" : "block",
+         "title" : "BL"
+      },
+      "id" : "tt2226414",
+      "type" : "add"
+   },
+   {
+      "fields" : {
+	     "location": "22.58625338,88.43435985",
+         "category" : "block",
+         "title" : "AL"
+      },
+      "id" : "tt2226415",
+      "type" : "add"
+   },
+   {
+      "fields" : {
+	     "location": "22.58177581,88.44015342",
+         "category" : "block",
+         "title" : "AP"
+      },
+      "id" : "tt2226416",
+      "type" : "add"
+   },
+   {
+      "fields" : {
+	     "location": "22.57747109,88.43166351",
+         "category" : "block",
+         "title" : "DN"
+      },
+      "id" : "tt2226417",
+      "type" : "add"
+   },
+   {
+      "fields" : {
+	     "location": "22.58301345,88.42893540",
+         "category" : "block",
+         "title" : "CL"
+      },
+      "id" : "tt2226418",
+      "type" : "add"
+   }
+]

@@ -1,0 +1,80 @@
+<p>
+  {{newcomponent}}
+</p>
+<p>
+  {{servicetext}}
+</p>
+<p>
+  Today's Date : {{todaydate}}
+</p>
+<div> Months (Using Binding) :
+  <select>
+    <option *ngFor="let i of servicemonths">{{i}}</option>
+  </select>
+</div><br>
+Search Keyword: "{{searchkeyword}}"<br>
+Results:<br><br>
+From Class Property <br>
+<table border="1">
+  <tr>
+    <th *ngFor="let col of columns">
+      {{col}}
+    </th>
+  </tr>
+  <tr *ngFor="let detail of details | async">
+    <td *ngFor="let col of columns">
+      {{detail[col]}}
+    </td>
+  </tr>
+</table>
+<!-- <p>
+    JSON DATA:- {{newData}}
+</p><br> -->
+<br>From External Json Files
+<br>coursera.org
+<table border="1">
+  <tr>
+    <th>title</th>
+    <th>ratings</th>
+    <th>level</th>
+    <th>language</th>
+  </tr>
+  <tr *ngFor="let data of courseraData">
+    <td>{{ data.title }}</td>
+    <td>{{ data.ratings }}</td>
+    <td>{{ data.level }}</td>
+    <td>{{ data.language }}</td>
+  </tr>
+</table>
+<br>edx.org
+<table border="1">
+  <tr>
+    <th>title</th>
+    <th>level</th>
+    <th>domain</th>
+    <th>language</th>
+  </tr>
+  <tr *ngFor="let data of edxData">
+    <td>{{ data.title }}</td>
+    <td>{{ data.level }}</td>
+    <td>{{ data.domain }}</td>
+    <td>{{ data.language }}</td>
+  </tr>
+</table>
+<br>udemy.com
+<table border="1">
+  <tr>
+    <th>title</th>
+    <th>level</th>
+    <th>duration</th>
+    <th>price</th>
+    <th>ratings</th>
+  </tr>
+  <tr *ngFor="let data of udemyData">
+    <td>{{ data.title }}</td>
+    <td>{{ data.level }}</td>
+    <td>{{ data.duration }}</td>
+    <td>{{ data.price }}</td>
+    <td>{{ data.ratings }}</td>
+  </tr>
+</table>

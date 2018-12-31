@@ -1,0 +1,24 @@
+[
+   {
+      "fields" : {
+	     "location": "30.05830,-64.40570",
+         "title" : "AngularJS: Framework Fundamentals",
+         "level" : "Intermediate",
+         "domain" : "Computer Science",
+         "language" : "English"
+      },
+      "id" : "tt2229499",
+      "type" : "add"
+   },
+   {
+      "fields" : {
+	     "location": "31.05830,-65.40570",
+         "title" : "AngularJS: Advanced Framework Techniques",
+         "level" : "Intermediate",
+         "domain" : "Computer Science",
+         "language" : "English"
+      },
+      "id" : "tt1392214",
+      "type" : "add"
+   }
+]

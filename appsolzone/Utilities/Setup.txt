@@ -1,0 +1,19 @@
+Installation complete:-
+1. Node js
+2. Npm
+3. Angular Cli
+4. Visual Studio Code
+
+Code executed:-
+1. Text, icon, links
+2. Login page with username, password  
+
+Changes:-
+i. (D:\AppSolZone\ngexamples\aeexamples>npm install --save @angular/material @angular/cdk)
+
+ii. mainpage.component.ts :-
+import { map } from 'rxjs/operators';
+
+iii. app.module.ts :-
+import {MatTableModule} from '@angular/material';
+import {MatInputModule} from '@angular/material';

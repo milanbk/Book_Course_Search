@@ -1,0 +1,24 @@
+--Searching Within an Area in Amazon CloudSearch--
+
+restaurant are filtered so that only matches within the downtown area of Paso Robles, CA are included in the results.
+q='course'&fq=location:['50.05830,-84.40570','50.05830,-84.40570']&q.parser=structured
+
+location field type:- text
+
+Console:-
+Search: English
+Filter Query: location:['49.05830,-83.40570','51.05830,-85.40570']
+Query Parser: Simple
+
+
+--Sorting Results by Distance in Amazon CloudSearch--
+
+
+location field type:- latlon
+
+searches for restaurants and sorts the results by distance from the user.
+
+q=restaurant&expr.distance=haversin(50.05830,-84.40570,location.latitude,location.longitude)&sort=distance asc
+
+
+haversin(50.05830,-84.40570,location.latitude,location.longitude)&sort=distance asc
